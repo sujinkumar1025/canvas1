@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sujinkumar1025/canvas1.git/static/css/main.9bb14d06.css",
-    "main.js": "/sujinkumar1025/canvas1.git/static/js/main.6b982a85.js",
-    "index.html": "/sujinkumar1025/canvas1.git/index.html",
-    "main.9bb14d06.css.map": "/sujinkumar1025/canvas1.git/static/css/main.9bb14d06.css.map",
-    "main.6b982a85.js.map": "/sujinkumar1025/canvas1.git/static/js/main.6b982a85.js.map"
+    "main.css": "/canvas1/static/css/main.9bb14d06.css",
+    "main.js": "/canvas1/static/js/main.6b982a85.js",
+    "index.html": "/canvas1/index.html",
+    "main.9bb14d06.css.map": "/canvas1/static/css/main.9bb14d06.css.map",
+    "main.6b982a85.js.map": "/canvas1/static/js/main.6b982a85.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb14d06.css",
